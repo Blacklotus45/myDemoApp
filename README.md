@@ -9,5 +9,7 @@ moves to destination point by the amount of parameter 3, these new values are re
 
 If our assumption is wrong then this method returns null.
 
+Demo site: https://git.heroku.com/stark-lowlands-57034.git
+
 [![Build Status](https://travis-ci.org/Blacklotus45/myDemoApp.svg?branch=master)](https://travis-ci.org/Blacklotus45/myDemoApp)
-Demo site: https://stark-lowlands-57034.herokuapp.com/
+
