@@ -8,3 +8,5 @@ Then assuming we have equal length of array's; every element of same index start
 moves to destination point by the amount of parameter 3, these new values are returned by a float array[]
 
 If our assumption is wrong then this method returns null.
+
+[![Build Status](https://travis-ci.org/Blacklotus45/myDemoApp.svg?branch=master)](https://travis-ci.org/Blacklotus45/myDemoApp)
